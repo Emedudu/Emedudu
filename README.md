@@ -12,22 +12,22 @@
 - 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=emedudu" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emedudu&theme=onedark" alt="Trophies" />
 </div>
 
 <div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true" alt="Total time coded since May 23 2022" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emedudu" alt="Total time coded since May 23 2022" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true&theme=tokyonight" alt="My Github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emedudu&theme=dark" alt="Github streak" />
 </div>
 
 <div>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu" alt="Total time coded since May 23 2022" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu&theme=tokyonight" alt="Github Language stats" />
 </div>
 
 <div>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu" alt="Total time coded since May 23 2022" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu" alt="Wakatime stats" />
 </div>
 
