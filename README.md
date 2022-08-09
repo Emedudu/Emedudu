@@ -1,15 +1,15 @@
 ### Hi there 👋 it's Eme
 ![](https://komarev.com/ghpvc/?username=Emedudu)
 [![wakatime](https://wakatime.com/badge/user/5ab5a4ca-593f-4544-b099-686b8ac89dca.svg)](https://wakatime.com/@5ab5a4ca-593f-4544-b099-686b8ac89dca)
-- 🌱 I’m currently learning machine learning with python, web3 programming with solidity, metamask, and truffle.
+- 🌱 I’m currently learning ML with python, Mobile development with react native.
 
 - 👯 I’m looking to collaborate on web2 or web3 development projects
 
 - 🤔 I’m looking for help with Mentorship and Scholarship
 
-- 💬 Ask me about React.js, Node.js, Express.js, python, javascript
+- 💬 Ask me about React, Node, Express, python, javascript, typescript, solidity
 
-- 📫 How to reach me: Email - itzemedev@gmail.com
+- 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
 
 - 😄 Pronouns: he/him
 
