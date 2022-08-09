@@ -18,6 +18,7 @@
 <div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true" alt="Total time coded since May 23 2022" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emedudu" alt="Total time coded since May 23 2022" />
 </div>
 
 <div>
