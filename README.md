@@ -15,3 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/Emedudu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Emedudu/github-stats/master/generated/overview.svg#gh-light-mode-only)
