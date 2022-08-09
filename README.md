@@ -33,5 +33,5 @@
 
 <div>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula" alt="Contribution graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Emedudu&theme=dracula" alt="Contribution graph" />
 </div>
