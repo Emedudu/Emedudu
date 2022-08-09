@@ -1,5 +1,5 @@
 ### Hi there 👋 it's Eme
-
+![](https://komarev.com/ghpvc/?username=Emedudu)
 - 🌱 I’m currently learning machine learning with python, web3 programming with solidity, metamask, and truffle.
 
 - 👯 I’m looking to collaborate on web2 or web3 development projects
