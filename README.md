@@ -9,7 +9,7 @@
 
 - 💬 Ask me about React, Node, Express, python, javascript, typescript, solidity
 
-- 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
+- 📫 You may reach me on [![Twitter Badge](https://img.shields.io/badge/-@emedudu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/emeduduna) [![Linkedin Badge](https://img.shields.io/badge/-emedudu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeduduna-akerejola-823a72230/)
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=emedudu&theme=onedark" alt="Trophies" />
