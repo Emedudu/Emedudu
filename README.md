@@ -12,6 +12,10 @@
 - 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
 
 <div>
+  <img src="https://github-profile-trophy.vercel.app/?username=emedudu" alt="Trophies" />
+</div>
+
+<div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true" alt="Total time coded since May 23 2022" />
 </div>
