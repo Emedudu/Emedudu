@@ -28,6 +28,6 @@
 
 <div>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu" alt="Wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu&theme=dark" alt="Wakatime stats" />
 </div>
 
