@@ -10,15 +10,19 @@
 - 💬 Ask me about React, Node, Express, python, javascript, typescript, solidity
 
 - 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
+
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true" alt="Total time coded since May 23 2022" />
 </div>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu" alt="Total time coded since May 23 2022" />
 </div>
 
 <div>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu" alt="Total time coded since May 23 2022" />
 </div>
 
