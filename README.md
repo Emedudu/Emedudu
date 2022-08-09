@@ -18,7 +18,7 @@
 <div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true&theme=tokyonight" alt="My Github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emedudu&theme=dark" alt="Github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emedudu&theme=tokyonight" alt="Github streak" />
 </div>
 
 <div>
@@ -28,6 +28,6 @@
 
 <div>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu&theme=dark" alt="Wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu&theme=tokyonight" alt="Wakatime stats" />
 </div>
 
