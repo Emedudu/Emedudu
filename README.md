@@ -1,6 +1,6 @@
 ### Hi there 👋 it's Eme
 ![](https://komarev.com/ghpvc/?username=Emedudu)
-<img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>
+[![wakatime](https://wakatime.com/badge/user/5ab5a4ca-593f-4544-b099-686b8ac89dca.svg)](https://wakatime.com/@5ab5a4ca-593f-4544-b099-686b8ac89dca)
 - 🌱 I’m currently learning machine learning with python, web3 programming with solidity, metamask, and truffle.
 
 - 👯 I’m looking to collaborate on web2 or web3 development projects
