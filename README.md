@@ -10,12 +10,15 @@
 - 💬 Ask me about React, Node, Express, python, javascript, typescript, solidity
 
 - 📫 Reach me on [Twitter - @emeduduna](https://twitter.com/emeduduna) , [Email - itzemedev@gmail.com](mailto:itzemedev@gmail.com?body=Hello%20Eme,)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true)
+</div>
 
-- 😄 Pronouns: he/him
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emedudu&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![](https://raw.githubusercontent.com/Emedudu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Emedudu/github-stats/master/generated/overview.svg#gh-light-mode-only)
