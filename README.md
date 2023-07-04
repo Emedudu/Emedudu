@@ -1,6 +1,5 @@
 ### Yo 😎
 ![](https://komarev.com/ghpvc/?username=Emedudu)
-[![wakatime](https://wakatime.com/badge/user/5ab5a4ca-593f-4544-b099-686b8ac89dca.svg)](https://wakatime.com/@5ab5a4ca-593f-4544-b099-686b8ac89dca)
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=emedudu&theme=onedark" alt="Trophies" />
