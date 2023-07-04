@@ -18,10 +18,5 @@
 
 <div>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu&theme=tokyonight" alt="Wakatime stats" />
-</div>
-
-<div>
-<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emedudu)](https://github.com/anuraghazra/github-readme-stats) -->
   <img src="https://activity-graph.herokuapp.com/graph?username=Emedudu&theme=dracula" alt="Contribution graph" />
 </div>
