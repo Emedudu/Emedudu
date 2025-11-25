@@ -38,10 +38,10 @@ With over two years of experience as a **Web3 Developer** and **Security Researc
 ---
 
 ### 🔬 Currently Exploring
-Blockchain DLTs 
-Zero-Knowledge Systems 
-Security in Decentralized Protocols 
-Prediction Markets
+- Blockchain DLTs 
+- Zero-Knowledge Systems 
+- Security in Decentralized Protocols 
+- Prediction Markets
 
 ---
 
